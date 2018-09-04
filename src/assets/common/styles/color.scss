@@ -1,0 +1,41 @@
+// color vars
+//// basic
+$color-orange: #fc9153;
+$color-blue: #0d70ff;
+$color-regular-blue: #4a4c5b;
+
+$color-white: #fff;
+
+//// gray
+$color-dark-grey: #161616;
+$color-grey: #272727;
+$color-light-grey: #333333;
+$color-light-grey-s: #8a8a8a;
+$color-light-grey-ss: #c5c5c5;
+$color-light-grey-sss: #f3f4f5;
+$color-light-grey-ssss: #f8f9fa;
+$color-active-grey: #eeeeee;
+
+$color-dark-grey-opacity: rgba(74, 76, 91, 0.8);
+$color-grey-opacity: rgba(0, 0, 0, .08);
+$color-light-grey-opacity: rgba(0, 0, 0, .04);
+
+//// orange
+$color-dark-orange: #e8864c;
+$color-light-orange: #fdc2a5;
+$color-orange-opacity: rgba(252, 145, 83, .08);
+$color-light-orange-opacity: rgba(252, 145, 83, .04);
+
+//// row line
+$color-row-line: #161616;
+//// column line
+$color-col-line: #161616;
+
+/// mask
+$color-mask-bg: rgba(37, 38, 45, .4);
+
+//// state
+$color-success: #5cb85c;
+$color-warning: #f0ad4e;
+$color-danger: #d9534f;
+$color-info: #5bc0de;
